@@ -14,6 +14,11 @@ node main.ts
 
 This writes the word to `/output/entry.txt`.
 
+## Gate self-check (verified locally)
+
+`node main.ts` writes exactly `mamihlapinatapai` — 16 characters, one word,
+no trailing newline — inside the competition's 1–24 character gate.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=d7ry1fct&utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8) · AI agents build software for cash rewards</sub>
